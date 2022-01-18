@@ -38,7 +38,7 @@ run both Andriod and iOS devices because it builds with flutter.
 => Bottom Navigation Bar
 
 ## Photos
-![Preview](/Auth.png)
+![Auth](https://user-images.githubusercontent.com/93432216/149979388-89561805-c5c8-4c3f-a457-4cd377ed31b0.png)
 ![Preview](Account.png)
 ![Preview](Cart.png)
 ![Preview](Home.png)
