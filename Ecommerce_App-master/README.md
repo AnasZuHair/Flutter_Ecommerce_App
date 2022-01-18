@@ -10,7 +10,8 @@ run both Andriod and iOS devices because it builds with flutter.
 
 ### Video Preview of Final UI
 
-![Preview](/intro.gif)
+![intro](https://user-images.githubusercontent.com/93432216/149979089-621b0887-2443-439a-b799-fa25b3644f49.gif)
+
 
 ## Screens it contains:
 
